@@ -6,9 +6,9 @@
 Wir programmieren eine Applikation, dass die Teilnehmer einliest, die Teilnehmer können Ihre liebsten Workshops eingeben von 1-3 und dann werden die Teilnehmer in Gruppen einteilt. Ich habe mir jetzt die Aufgabe gestellt und werde versuchen euch ein Codesnippet, den wir im Programm gebraucht haben, zu erklären. Dieser Codesnippet ist die Kontrollstruktur switch case.
 
 ## Ziele:
-1. switch case erklären und für was es da ist
+1. Switch case erklären und für was es da ist.
 2. Code Beispiel zeigen für Inhalt 1.
-3. eigen, wie man ein switch case erstellt.
+3. Zeigen, wie man ein switch case erstellt.
 
 
 ## Inhalt 1
