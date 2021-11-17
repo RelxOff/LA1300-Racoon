@@ -1,5 +1,5 @@
 # LA1300-Racoon
-# Zufallszahl erraten
+# Switch case
 
 ## Einführung
 
